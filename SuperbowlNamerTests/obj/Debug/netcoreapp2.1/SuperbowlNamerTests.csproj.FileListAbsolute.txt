@@ -1,0 +1,17 @@
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\SuperbowlNamerTests.deps.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\SuperbowlNamerTests.runtimeconfig.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\SuperbowlNamerTests.runtimeconfig.dev.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\SuperbowlNamerTests.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\SuperbowlNamerTests.pdb
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.pdb
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.csprojAssemblyReference.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.csproj.CoreCompileInputs.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.AssemblyInfoInputs.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.AssemblyInfo.cs
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.csproj.CopyComplete
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\SuperbowlNamerTests\obj\Debug\netcoreapp2.1\SuperbowlNamerTests.pdb

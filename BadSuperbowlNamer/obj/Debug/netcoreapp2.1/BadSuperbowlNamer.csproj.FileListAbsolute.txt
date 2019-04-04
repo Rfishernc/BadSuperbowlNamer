@@ -1,0 +1,11 @@
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.deps.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.runtimeconfig.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.runtimeconfig.dev.json
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp2.1\BadSuperbowlNamer.pdb
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.csprojAssemblyReference.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.csproj.CoreCompileInputs.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.AssemblyInfoInputs.cache
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.AssemblyInfo.cs
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.dll
+C:\Users\Rich\workspace\backend\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp2.1\BadSuperbowlNamer.pdb
