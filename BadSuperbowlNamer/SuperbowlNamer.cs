@@ -13,11 +13,19 @@ namespace BadSuperbowlNamer
         };
        public string ConvertNumber(string input)
         {
-            var num = int.Parse(input);
-            var baseNum = SuperbowlNamer.RomanBase(num);
-            var result = RomanBuilder(baseNum, num);            
+            try
+            {
+                var num = int.Parse(input);
+                var baseNum = SuperbowlNamer.RomanBase(num);
+                var result = RomanBuilder(baseNum, num);
 
-            return result;
+                return result;
+            } catch
+            {
+                Console.Write("Uh oh you friccin moron, thats not a number.");
+                throw (new NonNumberInputException());
+            }
+            
         }
 
         static string RomanBuilder(int baseNumber, int num)
