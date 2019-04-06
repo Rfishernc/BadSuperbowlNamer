@@ -26,6 +26,47 @@ namespace BadSuperbowlNamer
                 throw (new NonNumberInputException());
             }
             
+        }           
+
+        public string ConvertRoman(string input)
+        {
+            try
+            {
+                var romanNumeral = input.ToUpper().ToCharArray();
+                var result = SuperbowlNamer.NumberBuilder(romanNumeral).ToString();
+
+                return result;
+            } catch
+            {
+                Console.Write("Uh oh you friccin moron, thats not a Roman numeral.");
+                throw (new NonRomanNumeralInputException());
+            }
+           
+        }
+
+        static int NumberBuilder(char[] romanLetters)
+        {
+            var num = 0;
+            for (var i = 0; i < romanLetters.Length; i++)
+            {
+                if (i + 1 < romanLetters.Length)
+                {
+                    if (SuperbowlNamer._romanNumerals.ContainsValue(romanLetters[i].ToString() + romanLetters[i + 1]))
+                    {
+                        num += SuperbowlNamer._romanNumerals.First(kvp => kvp.Value == romanLetters[i].ToString() + romanLetters[i + 1]).Key;
+                        i++;
+                    }
+                    else
+                    {
+                        num += SuperbowlNamer._romanNumerals.First(kvp => kvp.Value == romanLetters[i].ToString()).Key;
+                    }
+                }
+                else {
+                    num += SuperbowlNamer._romanNumerals.First(kvp => kvp.Value == romanLetters[i].ToString()).Key;
+                }
+                
+            }
+            return num;
         }
 
         static string RomanBuilder(int baseNumber, int num)
